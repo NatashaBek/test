@@ -1,8 +1,4 @@
-# Code Test
-
-## Welcome!
-
-This repository is the starting base for the WDP UI code test which will help us assess your JavaScript skill level, general attention to detail as a developer and use of best-practice implementation patterns.
+# Employee Roster Project
 
 ## Technical Requirements
 
@@ -10,9 +6,7 @@ You must have installed:
 - Node 8.x
 - NPM or Yarn
 
-The goal of this test is for us to get a sense of your JavaScript skill. We prefer seeing this demo app be implemented using React and Redux but all JavaScript frameworks will be considered.
-
-## Instructions
+## Project Instructions
 
 1. Read this readme
 2. Ensure you have understood the wireframes available in `/materials/wireframes`
@@ -36,3 +30,5 @@ Your application should render correctly in a mobile sized device.
 
 _*Note:* If anything is unclear, please create a readme.md file in the `/code` directory to document the assumptions you've made._
 "# test" 
+
+This project was created by Natasha B in 2018
