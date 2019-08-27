@@ -1,0 +1,9 @@
+.rightAlignment {
+    float: right;
+}
+
+@media (max-width: 780px) {
+    .rightAlignment {
+        width: 100%;
+    }
+}

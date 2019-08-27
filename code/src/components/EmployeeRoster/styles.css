@@ -1,0 +1,50 @@
+.wrapper > div {
+    border: 1px solid #000;
+}
+ 
+.wrapper {
+    padding: 15px;
+    display: grid;
+    float: left;
+    text-align: left;
+    width: 30%;
+} 
+
+img { 
+    float: left;
+    margin-right: 4px;
+    clear: both;
+}
+
+.interactiveDiv{
+    cursor: pointer;
+    float: left;
+}
+
+.interactiveDiv:hover{
+    background-color: darkorange;
+}
+
+.modalHeader {
+    padding-top: 8%;
+    padding-left: 20%
+}
+
+.modalText {
+    width: 20%;
+    float: left;
+}
+
+.modalBio {
+    width: 90%;
+}
+
+@media (max-width: 1030px) {
+    /* For Mobile & Tablets */
+    .div, .wrapper, .interactiveDiv, .img {
+        width: 90%;
+        display: block;
+        clear: both;
+        columns: 1;
+    }
+}
